@@ -4,3 +4,5 @@ After some time of working on it I was able to link everything together, when I 
 The only issue left was probably the pictures, they may or may not be able to load in but I was able to put in a alt tag to help it out a bit. 
 
 https://mcastro24.github.io/mcastro24.Portfolio/ 
+ UPDATE~
+ I added what needed to be added for the homework, additionally I added a folder to my repo to make it look much more cleaner than it did before.
