@@ -9,3 +9,4 @@ https://mcastro24.github.io/mcastro24.Portfolio/
  I understand that my portfolio is not that flashy, I just don't know what to color or add on, if you can give any reccomendations I will take them to heart.
  I was able to plug in all of my accounts like github and my linkedin successfully.
  
+ P.S If you are reading this I was recently told about plagiarism on my account, I am saying it here for the record that I am using previously used html because I have taken this course previously, this message was mostly for brian since I had to talk to peter about this and this is exactly what he told me to say.
