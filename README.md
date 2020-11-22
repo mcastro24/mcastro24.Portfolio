@@ -6,3 +6,6 @@ The only issue left was probably the pictures, they may or may not be able to lo
 https://mcastro24.github.io/mcastro24.Portfolio/ 
  UPDATE~
  I added what needed to be added for the homework, additionally I added a folder to my repo to make it look much more cleaner than it did before.
+ I understand that my portfolio is not that flashy, I just don't know what to color or add on, if you can give any reccomendations I will take them to heart.
+ I was able to plug in all of my accounts like github and my linkedin successfully.
+ 
